@@ -11,3 +11,4 @@ COPY webapp/* /webapp
 ENTRYPOINT [ "python" ]
 
 CMD [ "app.py" ]
+
